@@ -1,0 +1,7 @@
+ModelTest.CreateVariableAndConstraint 4 0.000778771
+SparseTest.ConversionsAndSpMV 4 0.000753104
+NumericsTest.Validations 4 0.000699958
+LPSolverTest.SmallLP 1 0.00295071
+LPSolverTest.UnboundedLP 2 0.00133056
+LPSolverTest.InfeasibleLP 1 0.00261754
+---

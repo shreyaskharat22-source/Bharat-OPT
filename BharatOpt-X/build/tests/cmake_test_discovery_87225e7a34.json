@@ -1,0 +1,76 @@
+{
+  "tests": 8,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "ModelTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "CreateVariableAndConstraint",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/model_test.cpp",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "name": "SparseTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "ConversionsAndSpMV",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/sparse_test.cpp",
+          "line": 8
+        }
+      ]
+    },
+    {
+      "name": "NumericsTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Validations",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/utils_test.cpp",
+          "line": 7
+        }
+      ]
+    },
+    {
+      "name": "LPSolverTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "SmallLP",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/lp_test.cpp",
+          "line": 7
+        },
+        {
+          "name": "UnboundedLP",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/lp_test.cpp",
+          "line": 45
+        },
+        {
+          "name": "InfeasibleLP",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/lp_test.cpp",
+          "line": 73
+        }
+      ]
+    },
+    {
+      "name": "MILPTest",
+      "tests": 2,
+      "testsuite": [
+        {
+          "name": "BinaryKnapsack",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/milp_test.cpp",
+          "line": 7
+        },
+        {
+          "name": "SimpleInteger",
+          "file": "\/Users\/shreyas\/Desktop\/bharat OPT\/BharatOpt-X\/tests\/milp_test.cpp",
+          "line": 41
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+Start testing: Sep 21 22:06 IST
+----------------------------------------------------------
+1/8 Testing: ModelTest.CreateVariableAndConstraint
+1/8 Test: ModelTest.CreateVariableAndConstraint
+Command: "/Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests/bharatopt_test" "--gtest_filter=ModelTest.CreateVariableAndConstraint" "--gtest_also_run_disabled_tests"
+Directory: /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests
+"ModelTest.CreateVariableAndConstraint" start time: Sep 21 22:06 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ModelTest.CreateVariableAndConstraint
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ModelTest
+[ RUN      ] ModelTest.CreateVariableAndConstraint
+[       OK ] ModelTest.CreateVariableAndConstraint (0 ms)
+[----------] 1 test from ModelTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ModelTest.CreateVariableAndConstraint" end time: Sep 21 22:06 IST
+"ModelTest.CreateVariableAndConstraint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: SparseTest.ConversionsAndSpMV
+2/8 Test: SparseTest.ConversionsAndSpMV
+Command: "/Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests/bharatopt_test" "--gtest_filter=SparseTest.ConversionsAndSpMV" "--gtest_also_run_disabled_tests"
+Directory: /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests
+"SparseTest.ConversionsAndSpMV" start time: Sep 21 22:06 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = SparseTest.ConversionsAndSpMV
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SparseTest
+[ RUN      ] SparseTest.ConversionsAndSpMV
+[       OK ] SparseTest.ConversionsAndSpMV (0 ms)
+[----------] 1 test from SparseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SparseTest.ConversionsAndSpMV" end time: Sep 21 22:06 IST
+"SparseTest.ConversionsAndSpMV" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: NumericsTest.Validations
+3/8 Test: NumericsTest.Validations
+Command: "/Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests/bharatopt_test" "--gtest_filter=NumericsTest.Validations" "--gtest_also_run_disabled_tests"
+Directory: /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests
+"NumericsTest.Validations" start time: Sep 21 22:06 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NumericsTest.Validations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NumericsTest
+[ RUN      ] NumericsTest.Validations
+[       OK ] NumericsTest.Validations (0 ms)
+[----------] 1 test from NumericsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NumericsTest.Validations" end time: Sep 21 22:06 IST
+"NumericsTest.Validations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: LPSolverTest.SmallLP
+4/8 Test: LPSolverTest.SmallLP
+Command: "/Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests/bharatopt_test" "--gtest_filter=LPSolverTest.SmallLP" "--gtest_also_run_disabled_tests"
+Directory: /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests
+"LPSolverTest.SmallLP" start time: Sep 21 22:06 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LPSolverTest.SmallLP
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LPSolverTest
+[ RUN      ] LPSolverTest.SmallLP
+[       OK ] LPSolverTest.SmallLP (0 ms)
+[----------] 1 test from LPSolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LPSolverTest.SmallLP" end time: Sep 21 22:06 IST
+"LPSolverTest.SmallLP" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: LPSolverTest.UnboundedLP
+5/8 Test: LPSolverTest.UnboundedLP
+Command: "/Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests/bharatopt_test" "--gtest_filter=LPSolverTest.UnboundedLP" "--gtest_also_run_disabled_tests"
+Directory: /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests
+"LPSolverTest.UnboundedLP" start time: Sep 21 22:06 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LPSolverTest.UnboundedLP
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LPSolverTest
+[ RUN      ] LPSolverTest.UnboundedLP
+[       OK ] LPSolverTest.UnboundedLP (0 ms)
+[----------] 1 test from LPSolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LPSolverTest.UnboundedLP" end time: Sep 21 22:06 IST
+"LPSolverTest.UnboundedLP" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: LPSolverTest.InfeasibleLP
+6/8 Test: LPSolverTest.InfeasibleLP
+Command: "/Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests/bharatopt_test" "--gtest_filter=LPSolverTest.InfeasibleLP" "--gtest_also_run_disabled_tests"
+Directory: /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests
+"LPSolverTest.InfeasibleLP" start time: Sep 21 22:06 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LPSolverTest.InfeasibleLP
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LPSolverTest
+[ RUN      ] LPSolverTest.InfeasibleLP
+[       OK ] LPSolverTest.InfeasibleLP (0 ms)
+[----------] 1 test from LPSolverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LPSolverTest.InfeasibleLP" end time: Sep 21 22:06 IST
+"LPSolverTest.InfeasibleLP" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: MILPTest.BinaryKnapsack
+7/8 Test: MILPTest.BinaryKnapsack
+Command: "/Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests/bharatopt_test" "--gtest_filter=MILPTest.BinaryKnapsack" "--gtest_also_run_disabled_tests"
+Directory: /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/tests
+"MILPTest.BinaryKnapsack" start time: Sep 21 22:06 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/shreyas/Desktop/bharat OPT/BharatOpt-X/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MILPTest.BinaryKnapsack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MILPTest
+[ RUN      ] MILPTest.BinaryKnapsack
+[       OK ] MILPTest.BinaryKnapsack (0 ms)
+[----------] 1 test from MILPTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MILPTest.BinaryKnapsack" end time: Sep 21 22:06 IST
+"MILPTest.BinaryKnapsack" time elapsed: 00:00:00
+----------------------------------------------------------
+

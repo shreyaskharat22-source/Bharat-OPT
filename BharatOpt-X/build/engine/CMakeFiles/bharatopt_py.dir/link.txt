@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -bundle -Wl,-headerpad_max_install_names -Xlinker -undefined -Xlinker dynamic_lookup -o bharatopt_py.cpython-39-darwin.so CMakeFiles/bharatopt_py.dir/bindings/python/bindings.cpp.o  libbharatopt_engine.a
